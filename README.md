@@ -35,3 +35,5 @@ By completing this course, I gained a strong foundation in:
 ---
 
 📜 *This course enhanced my ability to think strategically, assess competitive environments, and understand how firms can position themselves for sustainable success.*
+**Note:** This is a living repository — I update it regularly as I complete more certifications and expand my expertise in the field.
+
