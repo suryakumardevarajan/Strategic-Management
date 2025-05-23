@@ -1,6 +1,6 @@
 # 🎯 Strategic Management Certifications (Actively Updating)
 
-This repository contains the verified certificate from the **Strategic Management** course offered by **Copenhagen Business School**. I will update more certificate as I learn, progress, complete and execute.
+This repository contains the verified certificate from the **Strategic Management** course offered by **Copenhagen Business School** on Coursera. I will update more certificate as I learn, progress, complete and execute.
 
 The course provides a deep introduction to the field of strategic management and focuses on the tools and concepts used by organizations to achieve long-term success in competitive markets.
 
